@@ -1,10 +1,4 @@
-#Hello{
-
-  color:"red";
-
-}
-
-body{
+p{
  
-  background-color : "yellow";
+    color : red;
 }
